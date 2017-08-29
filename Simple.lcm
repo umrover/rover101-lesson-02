@@ -1,0 +1,6 @@
+struct Simple {
+    int32_t elapsed_time_s;
+
+    double latitude_deg;
+    double longitude_deg;
+}
